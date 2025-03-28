@@ -12,6 +12,6 @@ Testnet
    ( Bikin PW dan save Pubkeynya )
    
 ➡️ Join Discord :  https://discord.gg/soundnesslabs
- Enter #testnet-access
- Send !access + your pub key
- Done
+ ➖Enter #testnet-access
+ ➖Send !access + your pub key
+ ➖Done
