@@ -1,7 +1,7 @@
 # Soundness
 Testnet 
 # Step by Step
-1. '''curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash'''
+1. ''' curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash '''
 2. source ~/.bashrc
 3. sudo apt update && sudo apt upgrade -y
 4. curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
